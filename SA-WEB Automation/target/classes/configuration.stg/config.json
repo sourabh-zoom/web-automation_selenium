@@ -1,0 +1,43 @@
+{
+	"baseUrl":"https://account.samsung.com",
+	"commonpassword":"samsung@135",
+	"newpassword":"samsung@246",
+	 
+	"User1":{
+	"loginID":"stgtest2300@ruu.kr",
+     "loginpassword":"samsung@2023"
+		
+	  },
+	
+	"User2":{
+	"loginID":"stgtest2300@ruu.kr",
+     "loginpassword":"samsung@2023"
+		
+	  },
+	  
+	"mobileaccount":["8130108210","samsung@135"],
+	
+	
+	
+	
+    "book": [
+	
+      {
+         "id":"01",
+         "language": "Java",
+         "edition": "third",
+         "author": "Herbert Schildt"
+      },
+	
+      {
+         "id":"07",
+         "language": "C++",
+         "edition": "second",
+         "author": "E.Balagurusamy"
+      }
+   ]
+   
+   
+	
+}
+

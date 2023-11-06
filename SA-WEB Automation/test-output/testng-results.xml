@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-10T19:04:58 IST" name="Suite" finished-at="2023-09-10T19:05:03 IST" duration-ms="5129">
+    <groups>
+    </groups>
+    <test started-at="2023-09-10T19:04:58 IST" name="Test" finished-at="2023-09-10T19:05:03 IST" duration-ms="5129">
+      <class name="sa.test.common.CommonConfig">
+        <test-method is-config="true" signature="init()[pri:0, instance:sa.test.common.CommonConfig@17f9d882]" started-at="2023-09-10T19:04:58 IST" name="init" finished-at="2023-09-10T19:04:58 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+      </class> <!-- sa.test.common.CommonConfig -->
+      <class name="sa.test.IAM.Sahome">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:sa.test.IAM.Sahome@33bc72d1]" started-at="2023-09-10T19:04:58 IST" name="launchApp" finished-at="2023-09-10T19:05:02 IST" duration-ms="3881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="Test1()[pri:0, instance:sa.test.IAM.Sahome@33bc72d1]" started-at="2023-09-10T19:05:02 IST" name="Test1" finished-at="2023-09-10T19:05:03 IST" duration-ms="1113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:sa.test.IAM.Sahome@33bc72d1]" started-at="2023-09-10T19:05:03 IST" name="tearDown" finished-at="2023-09-10T19:05:03 IST" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- sa.test.IAM.Sahome -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
